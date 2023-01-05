@@ -29,7 +29,7 @@ v1.0
 ![image](https://github.com/fyrus7/ShutterSlap/blob/main/image/pro_micro_pinout.jpg)
 
 * Row pins: 16, 10
-* Col pins: 5, 6, 7, 8, 9
+* Column pins: 5, 6, 7, 8, 9
 *
 * Rotary Encoder pins,
 * Pad A: 15, A1, A3
