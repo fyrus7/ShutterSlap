@@ -15,6 +15,12 @@ I am a Photographer who seek an option to make my editing fast, there is so many
 * 2 Rotary encoder for left/right/up/down (works as custom funtion in layer 2 & 3).
 * (Optional) Oled display for viewing layers / midi cc number / funtions.
 
+# Parts
+* Arduino Pro Micro
+* 10x Cherry Switch
+* 1-3 Rotary encoder
+* Oled display 128x64 (optional)
+
 # Firmware
 The firmware is fully QMK, see build environment setup then the make instructions for more information.
 
