@@ -2,7 +2,7 @@
 
 ![image](https://github.com/fyrus7/ShutterSlap/blob/main/image/SS1.jpg)
 
-<center><img src="https://github.com/fyrus7/ShutterSlap/blob/main/image/SS2.jpg" width="50%" height="50%"></center>
+<center><img src="https://github.com/fyrus7/ShutterSlap/blob/main/image/SS2.jpg" width="70%" height="70%"></center>
 
 # Overview
 I am a Photographer who seek an option to make my editing fast, there is to many Lightroom shortcut you can use on the normal keyboard and sometimes (most of the time) you pressed the wrong key for the wrong funtions such as "X" will rejected a photo while not in crop tool option. Surely I can just buy a midi controller but I don't like to see a waste of button on the deck (meh). I decide to make myself a macropad that use midi CC as a key, and that's it! ShutterSlap is born :)
