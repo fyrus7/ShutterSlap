@@ -18,6 +18,8 @@ v1.0
 * 2 Rotary encoder for left/right/up/down (works as custom funtion in layer 2 & 3).
 * (Optional) Oled display for viewing layers / midi cc number / funtions.
 
+# Layout
+![image](https://github.com/fyrus7/ShutterSlap/blob/main/image/Layout.jpg)
 # Parts
 * Arduino Pro Micro
 * 10x Cherry Switch
