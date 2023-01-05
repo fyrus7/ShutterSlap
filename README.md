@@ -5,6 +5,7 @@ v1.0
 * I'm a Photographer who seek an option to make my editing fast :)
 * There is so many Lightroom shortcut you can use on the normal keyboard and sometimes (most of the time) you pressed the wrong key for the wrong funtions such as "X" will rejected a photo while not in crop tool option.
 * Surely I can just buy a midi controller but I don't like to see a waste of button on the deck (meh). I decide to learn more about the C language use in QMK firmware and make myself a Macropad, and that's it! ShutterSlap is born :)
+* Why ShutterSlap? Shutter = Photographer, Slap? key funtion by tapping it 1 to 3 times like a slap haha!
 
 ![image](https://github.com/fyrus7/ShutterSlap/blob/main/image/SS1.jpg)
 
