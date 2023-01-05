@@ -22,6 +22,7 @@ v1.0
 * Arduino Pro Micro
 * 10x Cherry Switch
 * 1-3 Rotary encoder
+* 10x 1N4148 Diode
 * Oled display 128x64 (optional)
 
 # Firmware
