@@ -21,7 +21,7 @@ v1.0
 # Parts
 * Arduino Pro Micro
 * 10x Cherry Switch
-* 1-3 Rotary encoder
+* 1-3 Rotary encoder (you can skip 2)
 * 10x 1N4148 Diode
 * Oled display 128x64 (optional)
 
