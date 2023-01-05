@@ -27,6 +27,7 @@ v1.0
 
 # Firmware
 The firmware is fully QMK, see build environment setup then the make instructions for more information.
+* Precompile firmware on Release.
 
 # Firmware flashing :
 Open QMK Toolbox and locate The .hex file you compiled before or use ready flash default keymap
