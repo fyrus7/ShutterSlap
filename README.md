@@ -25,8 +25,15 @@ v1.0
 * 1-3 Rotary encoder (you can skip 2)
 * Oled display 128x64 (optional)
 
-# Pinout
+# Pinout & Matrix
 ![image](https://github.com/fyrus7/ShutterSlap/blob/main/image/pro_micro_pinout.jpg)
+
+* Row pins: 16, 10
+* Column pins: 5, 6, 7, 8, 9
+*
+* Rotary Encoder pins,
+* Pad A: 15, A1, A3
+* Pad B: 14, A0, A2
 
 # Firmware
 The firmware is fully QMK, see build environment setup then the make instructions for more information.
