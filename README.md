@@ -20,6 +20,8 @@ v1.0
 
 # Layout
 ![image](https://github.com/fyrus7/ShutterSlap/blob/main/image/Layout.jpg)
+* 2 Row / 5 Column
+
 # Parts
 * Arduino Pro Micro
 * 10x Cherry Switch
