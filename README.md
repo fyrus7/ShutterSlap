@@ -19,7 +19,7 @@ v1.0
 * (Optional) Oled display for viewing layers / midi cc number / funtions.
 
 # Layout
-![image](https://github.com/fyrus7/ShutterSlap/blob/main/image/Layout.jpg)
+<img src="https://github.com/fyrus7/ShutterSlap/blob/main/image/Layout.jpg" width="50%" height="50%">
 * 2 Row / 5 Column
 
 # Parts
