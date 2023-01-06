@@ -1,16 +1,14 @@
 # ShutterSlap
 [Initial release v1.0](https://github.com/fyrus7/ShutterSlap/releases/tag/v1.0)
 
+![](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap1.jpg)
+
+![](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap2.jpg)
+
 # Overview
 * I'm a Photographer who seek an option to make my editing fast by clicking everything in keyboard shortcuts.
 * There is so many Lightroom shortcut you can use on the normal keyboard and sometimes (most of the time) you pressed the wrong key for the wrong funtions such as "X" will rejected a photo if not in crop tool option.
 * Therefor, I made myself this macropad to ease my job :)
-*
-* The function of this pad is to send a Midi CC to [MIDI2LR](https://rsjaffe.github.io/MIDI2LR/) plugin like you would with a midi controller. So make sure you install the plugin for Lightroom first.
-
-![](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap1.jpg)
-
-![](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap2.jpg)
 
 # Feature
 * 9 Custom key in 3 layers.
@@ -45,6 +43,12 @@
 * SCL = pin 3
 * VCC = vcc
 * GND = gnd
+
+# How to use
+* The function of this pad is to send a Midi CC to [MIDI2LR](https://rsjaffe.github.io/MIDI2LR/) plugin like you would with a midi controller. So make sure you install the plugin for Lightroom first.
+* Start Midi2LR plugin, press any ShutterSlap key you want to set a function, then rotate the first encoder.
+* Click on 'Unassigned' and choose whatever funtions you like.
+* After all key has been assign, right click on your command row, and select 'Binary offset' in the pop up window, and click 'apply to all'.
 
 # Firmware
 The firmware is fully QMK, see build environment setup then the make instructions for more information.
