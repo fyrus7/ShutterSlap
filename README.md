@@ -30,7 +30,7 @@ v1.0
 * Oled display 128x64 (optional)
 
 # Pinout & Matrix
-![image](https://github.com/fyrus7/ShutterSlap/blob/main/image/pro_micro_pinout.jpg)
+<img src="https://github.com/fyrus7/ShutterSlap/blob/main/image/pro_micro_pinout.jpg" width="50%" height="50%">
 
 * Row pins: 16, 10
 * Column pins: 5, 6, 7, 8, 9
