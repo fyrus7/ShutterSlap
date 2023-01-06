@@ -50,6 +50,8 @@
 * Click on 'Unassigned' and choose whatever funtions you like.
 * After all key has been assign, right click on your command row, and select 'Binary offset' in the pop up window, and click 'apply to all'.
 
+<img src="https://github.com/fyrus7/ShutterSlap/blob/main/image/midi2lr.jpg" width="50%" height="50%">
+
 # Firmware
 The firmware is fully QMK, see build environment setup then the make instructions for more information.
 * Precompile firmware on Release.
