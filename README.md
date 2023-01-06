@@ -23,7 +23,7 @@ v1.0
 * 2 Row / 5 Column
 
 # Parts
-* Arduino Pro Micro
+* Arduino Pro Micro ATmega32U4 5V/16MHz
 * 10x Cherry Switch
 * 10x 1N4148 Diode
 * 1-3 Rotary encoder (you can skip 2)
