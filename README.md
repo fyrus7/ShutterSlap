@@ -9,7 +9,7 @@ v1.0
 
 ![image](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap1.jpg)
 
-<img src="https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap2.jpg" width="50%" height="50%"> <img src="https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap3.jpg" width="50%" height="50%">
+<img src="https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap2.jpg" "https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap3.jpg" width="50%" height="50%">
 
 # Feature
 * 9 Custom key in 3 layers.
