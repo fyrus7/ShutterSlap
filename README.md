@@ -54,10 +54,10 @@
 
 # Firmware
 The firmware is fully QMK, see build environment setup then the make instructions for more information.
-* Precompile firmware in [Release](https://github.com/fyrus7/ShutterSlap/releases/tag/v1.0).
 
 # Firmware flashing :
-Open QMK Toolbox and locate The .hex file you compiled before or use ready flash default keymap
+Open QMK Toolbox and locate The .hex file you compiled before or use ready flash default keymap.
+* Precompile firmware in [Release](https://github.com/fyrus7/ShutterSlap/releases/tag/v1.0).
 
 # Enter the bootloader :
 Use tweezer and connect disconnect Reset pin with Ground pin twice.
