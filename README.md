@@ -1,5 +1,5 @@
 # ShutterSlap
-Initial release v1.0
+[Initial release v1.0](https://github.com/fyrus7/ShutterSlap/releases/tag/v1.0)
 
 # Overview
 * I'm a Photographer who seek an option to make my editing fast :)
