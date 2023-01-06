@@ -7,9 +7,9 @@ v1.0
 * Surely I can just buy a midi controller but I don't like to see a waste of button on the deck (meh). I decide to learn more about the C language use in QMK firmware and make myself a Macropad, and that's it! ShutterSlap is born :)
 * Why ShutterSlap? Shutter = Photographer, Slap? key funtion by tapping it 1 to 3 times like a slap haha!
 
-![image](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap1.jpg)
+![](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap1.jpg)
 
-![](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap2.jpg) | ![](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap3.jpg)
+![](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap2.jpg)
 
 # Feature
 * 9 Custom key in 3 layers.
