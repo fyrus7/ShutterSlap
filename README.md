@@ -38,6 +38,12 @@ v1.0
 * Rotary Encoder pins,
 * Pad A: 15, A1, A3
 * Pad B: 14, A0, A2
+*
+* Oled (optional)
+* SDA = pin 2
+* SCL = pin 3
+* VCC = vcc
+* GND = gnd
 
 # Firmware
 The firmware is fully QMK, see build environment setup then the make instructions for more information.
