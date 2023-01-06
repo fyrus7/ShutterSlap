@@ -1,5 +1,5 @@
 # ShutterSlap
-v1.0
+Initial release v1.0
 
 # Overview
 * I'm a Photographer who seek an option to make my editing fast :)
