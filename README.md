@@ -11,7 +11,7 @@
 * Therefor, I made myself this macropad to ease my job :)
 <br/>
 <br/>
-Keyboard Maintainer: [fyrus](https://github.com/fyrus7)
+Keyboard Maintainer [fyrus7](https://github.com/fyrus7)
 
 # Feature
 * 9 Custom key in 3 layers.
@@ -59,7 +59,7 @@ Keyboard Maintainer: [fyrus](https://github.com/fyrus7)
 The firmware is fully QMK, [see build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) then the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information.
 <br/>
 <br/>
-Make example for this keyboard (after setting up your build environment):
+Make example for this keyboard:
 <br/>
 <br/>
   <i>qmk compile -kb shutterslap -km default</i>
