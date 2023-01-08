@@ -1,5 +1,5 @@
 # ShutterSlap
-[New release v1.0.1](https://github.com/fyrus7/ShutterSlap/releases/tag/v1.0.1) | [Demo Video](https://youtu.be/QHllZwDsCeE)
+[Latest release v1.0.1](https://github.com/fyrus7/ShutterSlap/releases/tag/v1.0.1) | [Demo Video](https://youtu.be/QHllZwDsCeE)
 
 ![](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap1.jpg)
 
@@ -57,7 +57,7 @@ The firmware is fully QMK, see build environment setup then the make instruction
 
 # Firmware flashing :
 Open QMK Toolbox and locate The .hex file you compiled before or use ready flash default keymap.
-* Precompile firmware in [Release](https://github.com/fyrus7/ShutterSlap/releases/tag/v1.0).
+* Precompile firmware in [Release](https://github.com/fyrus7/ShutterSlap/releases).
 
 # Enter the bootloader :
 Use tweezer and connect disconnect Reset pin with Ground pin twice.
