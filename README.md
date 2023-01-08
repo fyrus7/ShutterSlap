@@ -11,7 +11,7 @@
 * Therefor, I made myself this macropad to ease my job :)
 <br/>
 <br/>
-Keyboard Maintainer: <a>fyrus7<url="https://github.com/fyrus7"</a>
+Keyboard Maintainer: <a href="https://github.com/fyrus7">fyrus7</a>
 
 # Feature
 * 9 Custom key in 3 layers.
