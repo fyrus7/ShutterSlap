@@ -56,7 +56,12 @@ Keyboard Maintainer: [fyrus7](https://github.com/fyrus7)
 <img src="https://github.com/fyrus7/ShutterSlap/blob/main/image/midi2lr.jpg" width="50%" height="50%">
 
 # Firmware
-The firmware is fully QMK, see build environment setup then the make instructions for more information.
+The firmware is fully QMK, [see build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) then the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information.
+<br/>
+<br/>
+Make example for this keyboard (after setting up your build environment):
+<br/>
+ <i>qmk compile -kb shutterslap -km default</i>
 
 # Firmware flashing :
 Open QMK Toolbox and locate The .hex file you compiled before or use ready flash default keymap.
