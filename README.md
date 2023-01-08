@@ -61,6 +61,7 @@ The firmware is fully QMK, [see build environment setup](https://docs.qmk.fm/#/g
 <br/>
 Make example for this keyboard (after setting up your build environment):
 <br/>
+<br/>
  <i>qmk compile -kb shutterslap -km default</i>
 
 # Firmware flashing :
