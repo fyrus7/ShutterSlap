@@ -1,5 +1,5 @@
 # ShutterSlap
-[Initial release v1.0](https://github.com/fyrus7/ShutterSlap/releases/tag/v1.0) | [Demo Video](https://youtu.be/QHllZwDsCeE)
+[New release v1.0.1](https://github.com/fyrus7/ShutterSlap/releases/tag/v1.0.1) | [Demo Video](https://youtu.be/QHllZwDsCeE)
 
 ![](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap1.jpg)
 
