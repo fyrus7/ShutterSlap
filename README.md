@@ -10,8 +10,8 @@
 * There is so many Lightroom shortcut you can use on the normal keyboard and sometimes (most of the time) you pressed the wrong key for the wrong funtions such as "X" will rejected a photo if not in crop tool option.
 * Therefor, I made myself this macropad to ease my job :)
 <br/>
-<br/>
 Keyboard Maintainer: <a href="https://github.com/fyrus7"><b>fyrus7</b></a>
+<br/>
 
 # Feature
 * 9 Custom key in 3 layers.
