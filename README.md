@@ -11,7 +11,7 @@
 * Therefor, I made myself this macropad to ease my job :)
 <br/>
 <br/>
-Keyboard Maintainer: [fyrus7](https://github.com/fyrus7)
+Keyboard Maintainer: [fyrus7](https://github.com/fyrus7/ShutterSlap)
 
 # Feature
 * 9 Custom key in 3 layers.
@@ -62,7 +62,7 @@ The firmware is fully QMK, [see build environment setup](https://docs.qmk.fm/#/g
 Make example for this keyboard (after setting up your build environment):
 <br/>
 <br/>
- <i>qmk compile -kb shutterslap -km default</i>
+  <i>qmk compile -kb shutterslap -km default</i>
 
 # Firmware flashing :
 Open QMK Toolbox and locate The .hex file you compiled before or use ready flash default keymap.
