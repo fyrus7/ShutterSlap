@@ -60,13 +60,12 @@ Keyboard Maintainer: <a href="https://github.com/fyrus7"><b>fyrus7</b></a>
 <br/>
 The function of ShutterSlap is to send Midi CC to MIDI2LR plugin like you would with a midi controller. Make sure you install the plugin before use.
 <br/>
-<br/>
 1. Start Midi2LR plugin, press any ShutterSlap key you want to set a function, then rotate the first encoder.
 2. Click on 'Unassigned' and choose whatever funtions you like.
 3. After all key has been assign, right click on your command row, and select 'Binary offset' in the pop up window, and click 'apply to all'.
 <br/>
-<br/>
 Dont forget to save your MIDI2LR settings.
+<br/>
 <br/>
 
 <img src="https://github.com/fyrus7/ShutterSlap/blob/main/image/midi2lr.jpg" width="50%" height="50%">
