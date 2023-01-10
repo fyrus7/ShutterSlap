@@ -42,14 +42,22 @@ Keyboard Maintainer: <a href="https://github.com/fyrus7"><b>fyrus7</b></a>
 * Row pins: 16, 10
 * Column pins: 5, 6, 7, 8, 9
 <br/>
+<br/>
 * Rotary Encoder pins,
+<br/>
 * Pad A: 15, A1, A3
+<br/>
 * Pad B: 14, A0, A2
 <br/>
+<br/>
 * Oled (optional)
+<br/>
 * SDA = pin 2
+<br/>
 * SCL = pin 3
+<br/>
 * VCC = vcc
+<br/>
 * GND = gnd
 
 # How to use
