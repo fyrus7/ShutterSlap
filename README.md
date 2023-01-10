@@ -1,9 +1,13 @@
 # ShutterSlap
-[Latest release v1.0.1](https://github.com/fyrus7/ShutterSlap/releases/tag/v1.0.1) | [Demo Video](https://youtu.be/QHllZwDsCeE)
 
 ![](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap1.jpg)
 
 ![](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap2.jpg)
+
+<br/>
+[Latest release v1.0.1](https://github.com/fyrus7/ShutterSlap/releases/tag/v1.0.1) | [Demo Video](https://youtu.be/QHllZwDsCeE)
+<br/>
+<br/>
 
 # Overview
 I'm a Photographer who seek an option to make my editing fast by clicking everything in keyboard shortcuts.
