@@ -4,7 +4,6 @@
 
 ![](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap2.jpg)
 
-<br/>
 [Latest release v1.0.1](https://github.com/fyrus7/ShutterSlap/releases/tag/v1.0.1) | [Demo Video](https://youtu.be/QHllZwDsCeE)
 <br/>
 <br/>
