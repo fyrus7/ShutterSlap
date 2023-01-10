@@ -15,20 +15,19 @@ static uint8_t current_MIDI_ccNumber = 1;
 
 enum midi_cc_keycodes_LTRM { MIDI_CC1 = SAFE_RANGE,
                              MIDI_CC2, MIDI_CC3, MIDI_CC4, MIDI_CC5,
-							 MIDI_CC6, MIDI_CC7, MIDI_CC8, MIDI_CC9,
+			     MIDI_CC6, MIDI_CC7, MIDI_CC8, MIDI_CC9,
                              MIDI_CC10, MIDI_CC11, MIDI_CC12, MIDI_CC13,
-							 MIDI_CC14, MIDI_CC15, MIDI_CC16, MIDI_CC17,
-                             MIDI_CC18 };
+			     MIDI_CC14, MIDI_CC15, MIDI_CC16, MIDI_CC17, MIDI_CC18 };
 
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 	[_BASE] = LAYOUT(
 	        MIDI_CC1, MIDI_CC2, MIDI_CC3, MIDI_CC4, MIDI_CC5,
-		    MIDI_CC6, MIDI_CC7, MIDI_CC8, MIDI_CC9, TD(LAYER_1)
+		MIDI_CC6, MIDI_CC7, MIDI_CC8, MIDI_CC9, TD(LAYER_1)
 	),
 	[_LTRM] = LAYOUT(
 	        MIDI_CC10, MIDI_CC11, MIDI_CC12, MIDI_CC13, MIDI_CC14,
-		    MIDI_CC15, MIDI_CC16, MIDI_CC17, MIDI_CC18, TD(LAYER_2)
+		MIDI_CC15, MIDI_CC16, MIDI_CC17, MIDI_CC18, TD(LAYER_2)
 	),
 };
 
@@ -251,5 +250,5 @@ bool oled_task_user() {
 }
 #endif
 
-// copy below and compile
+/* copy line below to compile */
 //qmk compile -kb shutterslap -km default
