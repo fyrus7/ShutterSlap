@@ -17,6 +17,7 @@ Therefor, I made myself this macropad to ease my job :)
 
 Keyboard Maintainer: <a href="https://github.com/fyrus7"><b>fyrus7</b></a>
 <br/>
+<br/>
 
 # Feature
 * 9 Custom key in 3 layers.
@@ -41,29 +42,21 @@ Keyboard Maintainer: <a href="https://github.com/fyrus7"><b>fyrus7</b></a>
 
 * Row pins: 16, 10
 * Column pins: 5, 6, 7, 8, 9
-<br/>
-<br/>
+* 
 * Rotary Encoder pins,
-<br/>
 * Pad A: 15, A1, A3
-<br/>
 * Pad B: 14, A0, A2
-<br/>
-<br/>
+* 
 * Oled (optional)
-<br/>
 * SDA = pin 2
-<br/>
 * SCL = pin 3
-<br/>
 * VCC = vcc
-<br/>
 * GND = gnd
 
 # How to use
-The function of this pad is to send a Midi CC to [MIDI2LR](https://rsjaffe.github.io/MIDI2LR/) plugin like you would with a midi controller. So make sure you install the plugin for Lightroom first.
+The function of this pad is to send a Midi CC to [MIDI2LR](https://rsjaffe.github.io/MIDI2LR/) plugin like you would with a midi controller. Make sure you install the plugin before use.
 <br/>
-MIDI2LR to control Lightroom via MIDI commands - only accepts control change (CC), PITCH BEND, or NOTE messages
+MIDI2LR control Lightroom via MIDI commands - only accepts control change (CC), PITCH BEND, or NOTE messages
 <br/>
 Start Midi2LR plugin, press any ShutterSlap key you want to set a function, then rotate the first encoder.
 <br/>
