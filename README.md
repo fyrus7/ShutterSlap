@@ -54,20 +54,23 @@ Keyboard Maintainer: <a href="https://github.com/fyrus7"><b>fyrus7</b></a>
 * GND = gnd
 
 # How to use
-The function of this pad is to send a Midi CC to [MIDI2LR](https://rsjaffe.github.io/MIDI2LR/) plugin like you would with a midi controller. Make sure you install the plugin before use.
+
+[MIDI2LR](https://rsjaffe.github.io/MIDI2LR/) control Lightroom via MIDI commands - only accepts control change (CC), PITCH BEND, or NOTE messages.
 <br/>
 <br/>
-Start Midi2LR plugin, press any ShutterSlap key you want to set a function, then rotate the first encoder.
+The function of ShutterSlap is to send Midi CC to MIDI2LR plugin like you would with a midi controller. Make sure you install the plugin before use.
 <br/>
 <br/>
-Click on 'Unassigned' and choose whatever funtions you like.
+1. Start Midi2LR plugin, press any ShutterSlap key you want to set a function, then rotate the first encoder.
 <br/>
 <br/>
-After all key has been assign, right click on your command row, and select 'Binary offset' in the pop up window, and click 'apply to all'.
+2. Click on 'Unassigned' and choose whatever funtions you like.
 <br/>
 <br/>
+3. After all key has been assign, right click on your command row, and select 'Binary offset' in the pop up window, and click 'apply to all'.
 <br/>
-MIDI2LR control Lightroom via MIDI commands - only accepts control change (CC), PITCH BEND, or NOTE messages.
+<br/>
+Dont forget to save your MIDI2LR settings.
 <br/>
 
 <img src="https://github.com/fyrus7/ShutterSlap/blob/main/image/midi2lr.jpg" width="50%" height="50%">
