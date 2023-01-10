@@ -52,4 +52,5 @@
 #define OLED_DISABLE_TIMEOUT
 
 
+/* copy line below to compile */
 //qmk compile -kb shutterslap -km default
