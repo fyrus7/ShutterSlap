@@ -30,4 +30,4 @@ const uint16_t PROGMEM encoder_map[][NUM_ENCODERS][2] = {
 
 
 
-//qmk compile -kb shutterslapx -km lightroom
+// make shutterslap:vial
