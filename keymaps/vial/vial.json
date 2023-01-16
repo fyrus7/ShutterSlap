@@ -1,6 +1,7 @@
 { "vial": {
-	"midi": "advanced"},
-    "name": "ShutterSlap",
+          "midi": "advanced"},
+          "name": "ShutterSlap",
+
 	"matrix": {
 	  "rows": 2,
 	  "cols": 5
