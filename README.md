@@ -8,6 +8,7 @@
 <br/>
 <br/>
 ![](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap%20v2.0.1%20_%20Vial.jpg)
+
 ![](https://github.com/fyrus7/ShutterSlap/blob/main/image/SS_VIAL_KEY.png)
 v2.0.1 configurable in Vial gui under "User" tab.
 
