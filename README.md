@@ -18,9 +18,8 @@ There is so many Lightroom shortcut you can use on the normal keyboard and somet
 Therefor, I made myself this macropad to ease my job :)
 <br/>
 <br/>
-<br/>
 
-Keyboard Maintainer: <a href="https://github.com/fyrus7"><b>fyrus7</b></a>
+Macropad Maintainer: <a href="https://github.com/fyrus7"><b>fyrus7</b></a>
 <br/>
 <br/>
 
