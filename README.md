@@ -8,7 +8,8 @@
 <br/>
 <br/>
 ![](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap%20v2.0.1%20_%20Vial.jpg)
-v2.0.1 configurable in Vial gui.
+![](https://github.com/fyrus7/ShutterSlap/blob/main/image/SS_VIAL_KEY.png)
+v2.0.1 configurable in Vial gui under "User" tab.
 
 # Overview
 I'm a Photographer who seek an option to make my editing fast by clicking everything in keyboard shortcuts.
