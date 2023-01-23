@@ -21,7 +21,7 @@
 #define ENCODERS_PAD_A { B5, E6, C6 }
 #define ENCODERS_PAD_B { B4, D7, D4 }
 #define ENCODER_RESOLUTION 4
-//#define ENCODER_DIRECTION_FLIP
+#define ENCODER_DIRECTION_FLIP
 
 /* Debounce reduces chatter (unintended double-presses)
  - set 0 if debouncing is not needed */
