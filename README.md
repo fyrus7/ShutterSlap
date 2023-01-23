@@ -4,7 +4,7 @@
 
 ![](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap2.jpg)
 
-[Latest release v1.0.1](https://github.com/fyrus7/ShutterSlap/releases/tag/v1.0.1) | [Demo Video](https://youtu.be/QHllZwDsCeE)
+[Latest release v2.0.3](https://github.com/fyrus7/ShutterSlap/releases/tag/v2.0.3) | [Demo Video](https://youtu.be/QHllZwDsCeE)
 <br/>
 <br/>
 ![](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap%20v2.0.1%20_%20Vial.jpg)
@@ -41,24 +41,24 @@ Macropad Maintainer: <a href="https://github.com/fyrus7"><b>fyrus7</b></a>
 * Arduino Pro Micro ATmega32U4 5V/16MHz
 * 10x Cherry Switch
 * 10x 1N4148 Diode
-* 1-3 Rotary encoder (you can skip 2)
+* 1-3 Rotary encoder (you can use only 1 and up to 3)
 * Oled display 128x64 (optional)
 
 # Pinout & Matrix
 <img src="https://github.com/fyrus7/ShutterSlap/blob/main/image/pro_micro_pinout.jpg" width="50%" height="50%">
 
-* Row pins: 16, 10
-* Column pins: 5, 6, 7, 8, 9
+* Row pins: F5, F4, B6
+* Column pins: B2, B3, B1, F7, F6
 * 
 * Rotary Encoder pins,
-* Pad A: 15, A1, A3
-* Pad B: 14, A0, A2
+* Pad A: B5, E6, C6
+* Pad B: B4, D7, D4
 * 
 * Oled (optional)
-* SDA = pin 2
-* SCL = pin 3
-* VCC = vcc
-* GND = gnd
+* SDA = D1
+* SCL = D0
+* VCC = VCC
+* GND = GND
 
 # How to use
 
