@@ -27,20 +27,15 @@ Macropad Maintainer: <a href="https://github.com/fyrus7"><b>fyrus7</b></a>
 <br/>
 
 # Feature
-* 9 Custom key in 3 layers.
-* 1 Key can have 3 functions by tapping once / twice / 3 times.
-* 1 Rotary encoder for key value.
-* 2 Rotary encoder for left/right/up/down (works as custom funtion in layer 2 & 3).
-* (Optional) Oled display for viewing layers / midi cc number / funtions.
+* 60 Custom key in 2 layers (configure in vial)
+* change LR value with a twist of an encoder.
+* (Optional) Oled display for viewing layers & functions.
 
-# Layout
-<img src="https://github.com/fyrus7/ShutterSlap/blob/main/image/Layout.jpg" width="50%" height="50%">
-* 2 Row / 5 Column
 
 # Parts
 * Arduino Pro Micro ATmega32U4 5V/16MHz
 * 10x Cherry Switch
-* 10x 1N4148 Diode
+* 11x 1N4148 Diode
 * 1-3 Rotary encoder (you can use only 1 and up to 3)
 * Oled display 128x64 (optional)
 
@@ -65,7 +60,7 @@ Macropad Maintainer: <a href="https://github.com/fyrus7"><b>fyrus7</b></a>
 [MIDI2LR](https://rsjaffe.github.io/MIDI2LR/) control Lightroom via MIDI commands - only accepts control change (CC), PITCH BEND, or NOTE messages.
 <br/>
 <br/>
-The function of ShutterSlap is to send Midi CC to MIDI2LR plugin like you would with a midi controller. Make sure you install the plugin before use.
+The function of ShutterSlap is to send Midi functions to MIDI2LR plugin like you would with a midi controller. Make sure you install the plugin before use.
 <br/>
 1. Start Midi2LR plugin, press any ShutterSlap key you want to set a function, then rotate the first encoder.
 2. Click on 'Unassigned' and choose whatever funtions you like.
