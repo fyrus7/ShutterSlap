@@ -1,9 +1,5 @@
 # ShutterSlap
 
-![](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap1.jpg)
-
-![](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap2.jpg)
-
 [Latest release v2.0.3](https://github.com/fyrus7/ShutterSlap/releases/tag/v2.0.3) | [Demo Video](https://youtu.be/QHllZwDsCeE)
 <br/>
 <br/>
