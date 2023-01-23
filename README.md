@@ -7,7 +7,7 @@
 [Latest release v2.0.3](https://github.com/fyrus7/ShutterSlap/releases/tag/v2.0.3) | [Demo Video](https://youtu.be/QHllZwDsCeE)
 <br/>
 <br/>
-![](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap%20v2.0.1%20_%20Vial.jpg)
+![](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap%20Acrylic.jpg)
 
 ![](https://github.com/fyrus7/ShutterSlap/blob/main/image/SS_VIAL_v2.0.3.jpg)
 
