@@ -1,12 +1,12 @@
 {
-    "keyboard_name": "shutterslap",
+    "keyboard_name": "ShutterSlap",
 	"manufacturer": "iamfyrus",
 	"usb": {
 		"vid": "0x0000",
 		"pid": "0x0000",
-		"device_version": "1.0.0"
+		"device_version": "2.0.2"
 	},
-    "url": "",
+    "url": "https://iamfyrus.com",
     "maintainer": "fyrus7",
     "layouts": {
         "LAYOUT": {
@@ -14,13 +14,14 @@
           {"x":0, "y":0},
           {"x":1, "y":0},
           {"x":2, "y":0},
-	      {"x":3, "y":0},
+	  {"x":3, "y":0},
           {"x":4, "y":0},
-	      {"x":0, "y":1},
+	  {"x":0, "y":1},
           {"x":1, "y":1},
-	      {"x":2, "y":1},
-	      {"x":3, "y":1},
-	      {"x":4, "y":1}
+	  {"x":2, "y":1},
+	  {"x":3, "y":1},
+	  {"x":4, "y":1},
+	  {"x":0, "y":2}
         ]
         }
     }
