@@ -83,4 +83,4 @@ Open QMK Toolbox and locate The .hex file you compiled before or use ready flash
 
 # Enter the bootloader :
 Use tweezer and connect disconnect Reset pin with Ground pin twice.
-After flashing done, next time you want to reflash just tap and hold the first top left key while plug in the usb.
+After flashing done, next time you want to reflash just tap and hold the first top left key while plug in the usb (Caterina board).
