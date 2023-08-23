@@ -1,6 +1,6 @@
 # ShutterSlap
 
-[Latest release v2.0.3](https://github.com/fyrus7/ShutterSlap/releases/tag/v2.0.3) | [Demo Video](https://youtu.be/QHllZwDsCeE)
+[Latest release v4.0.1](https://github.com/fyrus7/ShutterSlap/releases/tag/v4.0.1) | [Demo Video](https://youtu.be/QHllZwDsCeE)
 <br/>
 <br/>
 ![](https://github.com/fyrus7/ShutterSlap/blob/main/image/ShutterSlap%20Acrylic.jpg)
