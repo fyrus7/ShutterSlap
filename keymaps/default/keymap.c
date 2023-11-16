@@ -6,41 +6,40 @@
 
 /* Key Assign Layout */
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
-	[_PAGE_1] = LAYOUT(
-  		    KC_A, KC_B, KC_C, KC_D, KC_E,
-		    KC_F, KC_G, KC_H, KC_I, KC_J,
-			TO(1)
+[_PAGE_1] = LAYOUT(
+  	    KC_A, KC_B, KC_C, KC_D, KC_E,
+	    KC_F, KC_G, KC_H, KC_I, KC_J,
+            TO(1)
 	),
-	[_PAGE_2] = LAYOUT(
-	        KC_1, KC_2, KC_3, KC_4, KC_5,
-		    KC_6, KC_7, KC_8, KC_9, KC_0,
-			TO(0)
+[_PAGE_2] = LAYOUT(
+            KC_1, KC_2, KC_3, KC_4, KC_5,
+	    KC_6, KC_7, KC_8, KC_9, KC_0,
+	    TO(0)
 	),
 };
 
 
 bool encoder_update_user(uint8_t index, bool clockwise) {
-	if (index == 0) { /* first encoder */
-        if (clockwise) {
-                tap_code16(KC_VOLU);
-            } else {
-                tap_code16(KC_VOLD);
-	    }
-	}
-    if (index == 1) { /* second encoder */
-            if (clockwise) {
-					tap_code16(KC_RGHT);
-				} else {
-					tap_code16(KC_LEFT);
-				}
-
-	}	
-    if (index == 2) { /* third encoder */
-            if (clockwise) {
-					tap_code16(KC_UP);
-				} else {
-					tap_code16(KC_DOWN);
-				}
+if (index == 0) { /* first encoder */
+    if (clockwise) {
+        tap_code16(KC_VOLU);
+     } else {
+        tap_code16(KC_VOLD);
+     }
+}
+ if (index == 1) { /* second encoder */
+     if (clockwise) {
+	tap_code16(KC_RGHT);
+     } else {
+	tap_code16(KC_LEFT);
+     }
+}	
+  if (index == 2) { /* third encoder */
+     if (clockwise) {
+	tap_code16(KC_UP);
+     } else {
+	tap_code16(KC_DOWN);
+      }
     }
   return true;
 }
@@ -52,15 +51,15 @@ bool oled_task_user() {
     oled_write_P(image, false);
 	switch (get_highest_layer(layer_state)) {
         case _PAGE_1:
-		oled_set_cursor(5, 3);
+	    oled_set_cursor(5, 3);
             oled_write_P(PSTR("LAYER [1] 2 "), false);
             break;
         case _PAGE_2:
-		oled_set_cursor(5, 3);
+	    oled_set_cursor(5, 3);
             oled_write_P(PSTR("LAYER  1 [2]"), false);
             break;
         default:
-		oled_set_cursor(5, 3);
+  	    oled_set_cursor(5, 3);
             oled_write_ln_P(PSTR("NONE"), false);
     }
 	return false;
